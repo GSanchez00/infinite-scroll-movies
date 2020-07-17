@@ -5,5 +5,5 @@ El proyecto es muestra las peliculas populares mediante un scroll infinito, el c
 Cuenta con una pantalla de detalle donde se vera el detalle de la pelicula. 
 
 ## Cómo correrlo en desarrollo:
-Instalar dependencias con npm install
-Iniciar proyecto con npm start
+Instalar dependencias con npm install <br /> 
+Iniciar proyecto con npm start <br /> 
