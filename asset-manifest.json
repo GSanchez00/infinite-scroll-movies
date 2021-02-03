@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/infinite-scroll-movies/static/css/main.720611a5.chunk.css",
-    "main.js": "/infinite-scroll-movies/static/js/main.9c3b1f41.chunk.js",
-    "main.js.map": "/infinite-scroll-movies/static/js/main.9c3b1f41.chunk.js.map",
+    "main.js": "/infinite-scroll-movies/static/js/main.afed678d.chunk.js",
+    "main.js.map": "/infinite-scroll-movies/static/js/main.afed678d.chunk.js.map",
     "runtime-main.js": "/infinite-scroll-movies/static/js/runtime-main.65da0f22.js",
     "runtime-main.js.map": "/infinite-scroll-movies/static/js/runtime-main.65da0f22.js.map",
     "static/js/2.ee5e4907.chunk.js": "/infinite-scroll-movies/static/js/2.ee5e4907.chunk.js",
     "static/js/2.ee5e4907.chunk.js.map": "/infinite-scroll-movies/static/js/2.ee5e4907.chunk.js.map",
     "index.html": "/infinite-scroll-movies/index.html",
-    "precache-manifest.c76ed7d68b615ade7279a7ad9508a26d.js": "/infinite-scroll-movies/precache-manifest.c76ed7d68b615ade7279a7ad9508a26d.js",
+    "precache-manifest.a8fcb7bde8479964addd9d5f469a0614.js": "/infinite-scroll-movies/precache-manifest.a8fcb7bde8479964addd9d5f469a0614.js",
     "service-worker.js": "/infinite-scroll-movies/service-worker.js",
     "static/css/main.720611a5.chunk.css.map": "/infinite-scroll-movies/static/css/main.720611a5.chunk.css.map",
     "static/js/2.ee5e4907.chunk.js.LICENSE.txt": "/infinite-scroll-movies/static/js/2.ee5e4907.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.65da0f22.js",
     "static/js/2.ee5e4907.chunk.js",
     "static/css/main.720611a5.chunk.css",
-    "static/js/main.9c3b1f41.chunk.js"
+    "static/js/main.afed678d.chunk.js"
   ]
 }
