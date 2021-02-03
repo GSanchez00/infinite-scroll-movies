@@ -14,6 +14,7 @@ function App() {
           <Redirect exact from="/" to="/popular" />
           <Route exact path="/popular" component={PopularMovies} />
           <Route path='/popular/:id' component={Movie}/>
+          <Route path='/infinite-scroll-movies' component={PopularMovies}/>
           <Route component={NotFound} />
         </Switch>
     </BrowserRouter>
